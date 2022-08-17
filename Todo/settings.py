@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # Apps
     'todoAPI',
     'rest_framework',
+    'coreapi',
     'drf_yasg',
 ]
 
